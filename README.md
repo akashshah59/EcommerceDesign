@@ -8,6 +8,8 @@ An E-commerce system has many components in it, the way the application is desig
   1. Spring Boot (To build a web application out of it)
   2. Eclipse like environment that helps with dependency downloads (Maven)
   3. Databases for each of the categories , instead of flat files.
-  
+  4. Github
+  5. Jenkins (Package building and test cases)
+  6. Ansible like tools to deploy packages to the server. /( Docker and a Kubernetes cluster ) 
  
 
